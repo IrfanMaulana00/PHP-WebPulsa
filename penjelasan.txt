@@ -1,0 +1,23 @@
+==== TUTORIAL ====
+Silahkan mendaftar di
+https://portalpulsa.com/ (server pulsa)
+https://payment.tripay.co.id/ (server pembayaran va)
+
+Jika sudah, download file web pulsanya
+Download link : https://irfan.co.id/free/Web%20Pulsa.zip
+
+jika sudah, upload pada server web kalian, jangan localhost ya, karena ini disetting untuk jalan online.
+jadi kalian perlu hosting/vps & domain pastinya
+
+jika sudah di upload file & databasenya, edit file koneksi.php sesuaiin sama database kamu ya.
+
+login ke admin dulu
+link : domainkamu.com/admin
+username : admin
+password : admin
+
+setting data api yang diperlukan, bisa ambil dari 2 situs yang kamu daftar tadi.
+jika sudah, tinggal test deh. ^_^
+
+website ini dibuat dengan sederhana supaya cepat, jadi jika terdapat bug / error silahkan di fix.
+jangan lupa test & cek dulu takut ada bug.

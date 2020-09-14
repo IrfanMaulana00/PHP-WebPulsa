@@ -1,0 +1,249 @@
+#section-2-244>.ct-section-inner-wrap {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	display: flex;
+	flex-direction: column;
+	align-items: center
+}
+
+#section-2-244 {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://wondodesain.com/wp-content/uploads/2020/07/4K-Cool-Blue-Abstract-Animated-Background-Animation-Video-Background-Techno-Background-stock.jpg);
+	background-size: auto, cover;
+	text-align: center;
+	border-top-width: 1px;
+	border-top-style: none;
+	border-top-color: rgba(0, 0, 0, 0.1);
+	background-repeat: repeat
+}
+
+#section-90-244>.ct-section-inner-wrap {
+	padding-top: 120px;
+	padding-bottom: 150px;
+	display: flex;
+	flex-direction: column;
+	align-items: center
+}
+
+#section-90-244 {
+	background-size: 400px auto;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: 50% 260%
+}
+
+#section-11-244>.ct-section-inner-wrap {
+	padding-top: 70px;
+	padding-bottom: 120px;
+	display: flex;
+	flex-direction: column;
+	align-items: center
+}
+
+#section-11-244 {
+	background-color: #eff4fb;
+	text-align: center
+}
+
+@media (max-width:991px) {
+	#section-2-244>.ct-section-inner-wrap {
+		padding-top: 20px;
+		padding-bottom: 20px
+	}
+}
+
+@media (max-width:991px) {
+	#section-90-244 {
+		background-position: 50% 220%
+	}
+}
+
+@media (max-width:767px) {
+	#section-2-244>.ct-section-inner-wrap {
+		padding-bottom: 75px
+	}
+}
+
+@media (max-width:767px) {
+	#section-90-244 {
+		background-position: 50% 210%
+	}
+}
+
+@media (max-width:767px) {
+	#section-11-244>.ct-section-inner-wrap {
+		padding-top: 60px;
+		padding-bottom: 20px
+	}
+}
+
+@media (max-width:479px) {
+	#section-90-244 {
+		background-position: 50% 180%
+	}
+}
+
+#div_block-4-244 {
+	width: 50%;
+	flex-direction: column;
+	display: flex;
+	text-align: left;
+	align-items: flex-start;
+	order: 1;
+	justify-content: center
+}
+
+#div_block-9-244 {
+	width: 50%;
+	order: 2
+}
+
+#div_block-100-12 {
+	width: 100%;
+	flex-direction: row;
+	display: flex;
+	align-items: center
+}
+
+#div_block-15-244 {
+	width: 50.00%
+}
+
+#div_block-21-244 {
+	width: 50.00%
+}
+
+#div_block-28-244 {
+	width: 50.00%
+}
+
+#div_block-34-244 {
+	width: 50.00%
+}
+
+@media (max-width:767px) {
+	#div_block-4-244 {
+		flex-direction: column;
+		display: flex;
+		align-items: center;
+		text-align: center
+	}
+}
+
+@media (max-width:767px) {
+	#new_columns-3-244>.ct-div-block {
+		width: 100% !important
+	}
+	#new_columns-3-244 {
+		flex-direction: column
+	}
+}
+
+#new_columns-3-244 {
+	display: flex
+}
+
+@media (max-width:991px) {
+	#new_columns-14-244>.ct-div-block {
+		width: 100% !important
+	}
+}
+
+@media (max-width:991px) {
+	#new_columns-14-244>.ct-div-block {
+		width: 100% !important
+	}
+}
+
+@media (max-width:991px) {
+	#new_columns-27-244>.ct-div-block {
+		width: 100% !important
+	}
+}
+
+@media (max-width:991px) {
+	#new_columns-27-244>.ct-div-block {
+		width: 100% !important
+	}
+}
+
+#headline-5-244 {
+	margin-bottom: 12px;
+	color: #eff4fb
+}
+
+#headline-91-244 {
+	margin-bottom: 40px;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+#headline-12-244 {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 12px
+}
+
+#text_block-6-244 {
+	margin-bottom: 24px;
+	color: #eff4fb
+}
+
+#text_block-8-244 {
+	color: #eff4fb
+}
+
+#text_block-13-244 {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 48px
+}
+
+#_rich_text-94-12 {
+	width: 100%
+}
+
+#link_text-7-244 {
+	margin-bottom: 12px
+}
+
+.oxy_shape_divider {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	pointer-events: none
+}
+
+.oxy_shape_divider>svg {
+	min-width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	z-index: 0;
+	transform-origin: bottom center
+}
+
+.oxy_shape_divider_top {
+	top: 0px;
+	bottom: initial
+}
+
+.oxy_shape_divider_flipped {
+	transform: scaleX(-1)
+}
+
+#-shape-divider-95-12 .oxy_shape_divider {
+	color: #ffffff
+}
+
+#-shape-divider-95-12 .oxy_shape_divider svg {
+	height: 50px
+}
+
+#-shape-divider-99-12 .oxy_shape_divider {
+	color: #eff4fb
+}
+
+#-shape-divider-99-12 .oxy_shape_divider svg {
+	height: 100px
+}
