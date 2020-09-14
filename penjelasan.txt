@@ -1,7 +1,7 @@
 ==== TUTORIAL ====
 Silahkan mendaftar di
-https://portalpulsa.com/ (server pulsa)
-https://payment.tripay.co.id/ (server pembayaran va)
+http://bit.ly/daftar-api-pulsa (server pulsa)
+http://bit.ly/daftar-api-va (server pembayaran va)
 
 Jika sudah, download file web pulsanya
 Download link : https://irfan.co.id/free/Web%20Pulsa.zip
