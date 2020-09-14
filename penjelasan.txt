@@ -4,8 +4,6 @@ http://bit.ly/daftar-api-pulsa (server pulsa)
 http://bit.ly/daftar-api-va (server pembayaran va)
 
 Jika sudah, download file web pulsanya
-Download link : https://irfan.co.id/free/Web%20Pulsa.zip
-
 jika sudah, upload pada server web kalian, jangan localhost ya, karena ini disetting untuk jalan online.
 jadi kalian perlu hosting/vps & domain pastinya
 
