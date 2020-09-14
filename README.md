@@ -1,8 +1,8 @@
 # PHP-WebPulsa
 ==== TUTORIAL ====<br>
 Silahkan mendaftar di<br>
-https://portalpulsa.com/ (server pulsa)<br>
-https://payment.tripay.co.id/ (server pembayaran va)<br>
+http://bit.ly/daftar-api-pulsa (server pulsa)<br>
+http://bit.ly/daftar-api-va (server pembayaran va)<br>
 <br>
 Jika sudah, download file web pulsanya<br>
 jika sudah, upload pada server web kalian, jangan localhost ya, karena ini disetting untuk jalan online.<br>
